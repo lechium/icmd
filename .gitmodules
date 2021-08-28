@@ -19,3 +19,4 @@
 [submodule "third_party/swiftyswiftvim"]
 	path = third_party/swiftyswiftvim
 	url = https://github.com/lechium/swiftyswiftvim
+	branch = master

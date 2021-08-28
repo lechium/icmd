@@ -18,4 +18,4 @@
 	url = https://github.com/PythonCharmers/python-future
 [submodule "third_party/swiftyswiftvim"]
 	path = third_party/swiftyswiftvim
-	url = https://github.com/jerrymarino/swiftyswiftvim
+	url = https://github.com/lechium/swiftyswiftvim
